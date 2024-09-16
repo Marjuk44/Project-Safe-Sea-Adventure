@@ -1,8 +1,7 @@
 # Project-Safe-Sea-Adventure
-Clean a messy data set known as “Shark Attacks” and build a project through fetching important insights.
 ![Screenshot (14)](https://github.com/user-attachments/assets/067f2ee8-a649-4e7e-8fc9-a161fa9a6ba7)
 ## Overview
-Preparing the data set for analysis and for a use case. Understanding its structure and formulating a hypothesis or several hypotheses about the data. Following the hypothesis come up with business case. 
+Clean a messy data set known as “Shark Attacks” and build a project through fetching important insights. Preparing the data set for analysis and for a use case. Understanding its structure and formulating a hypothesis or several hypotheses about the data. Following the hypothesis come up with business case. 
 
 ## Preparation
 
